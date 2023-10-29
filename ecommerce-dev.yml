@@ -1,6 +1,6 @@
 token:
   expiration_time: 864000000
-  secret: MSA_ecommerce_token_defualt
+  secret: MSA_ecommerce_token_dev
 
 gateway:
   ip: 127.0.0.1
